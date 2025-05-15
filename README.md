@@ -84,7 +84,7 @@ This function receives a trained model along with `.npy` files and returns class
 
 | Metric                         | One-vs-All             | Softmax |
 | ------------------------------ | ---------------------- | ------- |
-| Accuracy                       | \~96%%                 |\~96.2%  |
+| Accuracy                       | \~96%                  |\~96.2%  |
 | Runtime (seconds)              | 1.04s                  | 1.63s   |
 | F1-macro                       | 0.961                  | 0.963   |
 | Hardest class pair             | Class A vs. B          |   --    |
