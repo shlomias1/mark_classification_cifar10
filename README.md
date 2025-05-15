@@ -1,7 +1,7 @@
----
+
 
 # CIFAR10 Classification: One-vs-All vs. Softmax
-
+---
 ## Objective
 
 This notebook addresses **Exercise 1** from a machine learning course, focusing on multi-class classification of the well-known **CIFAR10 dataset** using **logistic regression**.
