@@ -71,12 +71,11 @@ This function receives a trained model along with `.npy` files and returns class
 ## File Structure
 
 ```
-.
 ├── data/
-│ ├── cifar10_features.npy # Feature file: 50,000 samples × 16 features
-│ └── cifar10_labels.npy # Label file: class numbers 0–9
-├── mark_classification_cifar10.ipynb # Main notebook with code, analysis, and results
-├── README.md # Project documentation
+│ ├── cifar10_features.npy             # Feature file: 50,000 samples × 16 features
+│ └── cifar10_labels.npy               # Label file: class numbers 0–9
+├── mark_classification_cifar10.ipynb  # Main notebook with code, analysis, and results
+├── README.md                          # Project documentation
 ```
 
 ---
