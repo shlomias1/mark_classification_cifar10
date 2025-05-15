@@ -2,9 +2,6 @@
 
 # CIFAR10 Classification: One-vs-All vs. Softmax
 
-Repository: `mark_classification_cifar10`  
-File: [`mark_classification_cifar10.ipynb`](https://github.com/shlomias1/mark_classification_cifar10/blob/main/mark_classification_cifar10.ipynb)
-
 ## Objective
 
 This notebook addresses **Exercise 1** from a machine learning course, focusing on multi-class classification of the well-known **CIFAR10 dataset** using **logistic regression**.
