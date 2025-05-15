@@ -52,7 +52,6 @@ def testmymodel(model, X, y):
     y_pred = model.predict(X_test)
     acc = accuracy_score(y_test, y_pred)
     return acc
-    ...
 ````
 
 This function receives a trained model along with `.npy` files and returns classification accuracy (and can include additional metrics as desired). It will be used for grading and external evaluation.
