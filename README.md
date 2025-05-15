@@ -1,6 +1,5 @@
 ---
 
-````markdown
 # CIFAR10 Classification: One-vs-All vs. Softmax
 
 Repository: `mark_classification_cifar10`  
