@@ -82,13 +82,13 @@ This function receives a trained model along with `.npy` files and returns class
 
 ## Results Summary
 
-| Metric                         | One-vs-All           | Softmax |
-| ------------------------------ | -------------------- | ------- |
-| Accuracy                       | \~96%%               |\~96.2%  |
-| Runtime (seconds)              | 1.04s                | 1.63s   |
-| F1-macro                       | 0.961                | 0.963   |
-| Hardest class pair             | Class A vs. B            --    |
-| Improvement after binary model | +4.1% in pair accuracy   --    |
+| Metric                         | One-vs-All             | Softmax |
+| ------------------------------ | ---------------------- | ------- |
+| Accuracy                       | \~96%%                 |\~96.2%  |
+| Runtime (seconds)              | 1.04s                  | 1.63s   |
+| F1-macro                       | 0.961                  | 0.963   |
+| Hardest class pair             | Class A vs. B          |   --    |
+| Improvement after binary model | +4.1% in pair accuracy |  --     |
 
 >  *Detailed results and plots are available inside the notebook.*
 
