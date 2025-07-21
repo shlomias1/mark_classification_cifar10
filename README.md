@@ -97,8 +97,6 @@ This function receives a trained model along with `.npy` files and returns class
 ## Author
 
 Developed by **Shlomi Asayag**
-Course: Machine Learning – Classification Exercise #1
-Institution: \[Your University or Department]
 
 ---
 
